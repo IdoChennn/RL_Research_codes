@@ -3,4 +3,4 @@ torchvision
 numpy
 shimmy
 stable_baselines3
-gymb
+gym
